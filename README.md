@@ -1,20 +1,30 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+-----
+# O Guia Natty da Produtividade: Programando com Gemini 🚀
 
-## 🚀 Introdução
+## 📒 Descrição
+Um e-book focado em técnicas de prompt engineering para desenvolvedores que desejam acelerar entregas usando o Gemini como copiloto.
 
-> Woooow! Look at this 👀
+## 🤖 Tecnologias Utilizadas
+- **Google Gemini**: Para geração do texto e roteiro.
+- **Canva**: Para a diagramação e design visual.
+- **Leonardo AI**: Para a criação da imagem da capa.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## 🧐 Processo de Criação
+Usei o Gemini para estruturar os tópicos principais e depois aprofundar cada capítulo. Foquei em manter um tom humano e menos robótico, revisando cada parágrafo. A arte foi gerada via IA e finalizada no Canva.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🚀 Resultados
+[Aqui você pode colocar um link para o arquivo PDF ou uma imagem da capa!]
 
-### Objetivos
+## 💭 Reflexão (Opcional)
+O maior desafio foi fazer a IA gerar exemplos de código que fossem realmente úteis e não apenas genéricos. É preciso saber "lapidar" a saída da IA para ser 'Natty'.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
+
+
+
+
+---
+
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 ### Template
