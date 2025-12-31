@@ -1,4 +1,4 @@
-# Gemini: O Copiloto de Elite 🚀
+#Gemini: O Copiloto de Elite
 
 ## 📒 Descrição
 Este e-book explora como a IA Generativa, especificamente o Google Gemini, pode acelerar o desenvolvimento de software através de refatoração inteligente e automação de testes.
