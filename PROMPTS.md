@@ -9,7 +9,7 @@ Este documento registra a "Engenharia de Prompt" utilizada para guiar o Google G
 ## 💻 2. Refatoração de Código (Capítulo 2)
 **Prompt:**
 > "Refatore o seguinte código JavaScript para seguir padrões de Clean Code e ES6+. Explique as melhorias feitas:
-> [Inserir código da função proc(p)]"
+> Inserir código da função proc(p)"
 
 ## 🧪 3. Geração de Testes (Capítulo 3)
 **Prompt:**
