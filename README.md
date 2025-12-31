@@ -15,4 +15,4 @@ O conteúdo foi gerado a partir de prompts focados em engenharia de software sê
 * [Clique aqui para ler o E-book (PDF)](./Purple%20Futuristic%20Technology%20Presentation.pdf)
 
 ## 💭 Reflexão
-O desafio foi criar algo que não parecesse "robótico" (Fake Natty), mas sim uma ferramenta útil e natural para o dia a dia do desenvolvedor.
+A reflexão que fica deste desafio é que a IA não substitui o talento, ela o escala. O segredo de um projeto 'Natty' está na curadoria: saber o que pedir, como refinar e quando intervir. Usei o Gemini para vencer o 'boilerplate' e o trabalho pesado, reservando minha energia para o que realmente importa: a arquitetura, a qualidade dos testes e uma entrega visualmente impactante.
