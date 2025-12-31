@@ -12,7 +12,7 @@ Este e-book explora como a IA Generativa, especificamente o Google Gemini, pode 
 O conteúdo foi gerado a partir de prompts focados em engenharia de software sênior. O design foi criado no Canva seguindo uma estética futurista "Dark Mode". Utilize o Gemini para transformar rascunhos em textos técnicos fluidos.
 
 ## 🚀 Resultados
-- [Clique aqui para ler o E-book (PDF)](./Purple Futuristic Technology Presentation.pdf)
+* [Clique aqui para ler o E-book (PDF)](./Purple%20Futuristic%20Technology%20Presentation.pdf)
 
 ## 💭 Reflexão
 O desafio foi criar algo que não parecesse "robótico" (Fake Natty), mas sim uma ferramenta útil e natural para o dia a dia do desenvolvedor.
